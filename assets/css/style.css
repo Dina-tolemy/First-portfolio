@@ -1,0 +1,115 @@
+
+a{
+     
+      text-decoration: none;
+      color: gray;
+}
+
+    .list {
+
+        list-style: none;
+        display: inline;
+        position: fixed;
+        right: 20%;
+        top: 5%;
+    
+    
+
+    }
+   .list li{
+        display: inline;
+        
+        text-align: center;
+        font-size: 18px;
+         padding: 8.5px;
+         background: white;
+        
+        
+
+    }
+h2{
+    color:  #4aaaa5;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+
+}
+#name{
+    background:  #4aaaa5;
+    color: white;
+    width: 250px;
+    padding: 10px;
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Georgia', Times, 'Times New Roman', serif;
+    position: fixed;
+    left: 20%;
+}
+.main
+{
+    color: grey;
+    background:white;
+    align-content: center;
+    padding: 20px;
+    position: fixed;
+    left: 20%;
+    right: 20%;
+    top: 10%;
+    bottom: 10%
+
+
+}
+#profile{
+    width: 300px;
+    height: 350px;
+}
+#page{
+
+    width: 960px;
+    background:white;
+}
+.footer{
+    background: grey;
+    text-align: center;
+    border-top: 8px solid #4aaaa5;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    padding: 5px;
+
+    
+}
+.topbar{
+
+    width: 960px;
+    background: white;
+    position: fixed;
+    top: 0;
+    left:20%;
+
+}
+body{
+    background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/email-pattern.png");
+
+}
+img{
+
+    float: left;
+    margin: 20px;
+
+}
+p{
+    padding: 20px;
+    margin-left: 10px;
+    margin-right: 15px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 20px;
+}
+.mainparagraph
+{
+border-top: 2px solid lightgrey;
+margin-top: 10px;
+padding: 20px;
+
+
+}
